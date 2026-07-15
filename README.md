@@ -40,4 +40,4 @@ AstraStriker to świeży projekt, który cały czas rozwijam. Twoja opinia jest 
 Masz pomysł na nową mechanikę? Znalazłeś błąd? A może chcesz po prostu napisać, co Ci się podobało? 
 
 💬 **Wpadaj na mojego Discorda i daj znać, co myślisz:**  
-👉 [Dołącz do serwera Discord](https://discord.gg/XcmcPMJZMT) (https://discord.gg/XcmcPMJZMT)
+👉 [Dołącz do serwera Discord](https://discord.gg/XcmcPMJZMT)
